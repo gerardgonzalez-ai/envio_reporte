@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Docs\\RFC.docx",
+      "PackagePath": "staticwebassets\\Docs\\RFC.docx"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Docs\\RFC.pdf",
+      "PackagePath": "staticwebassets\\Docs\\RFC.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Docs\\RFDC.docx",
+      "PackagePath": "staticwebassets\\Docs\\RFDC.docx"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Docs\\RFDC.pdf",
+      "PackagePath": "staticwebassets\\Docs\\RFDC.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Docs\\RFF.docx",
+      "PackagePath": "staticwebassets\\Docs\\RFF.docx"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Docs\\RFF.pdf",
+      "PackagePath": "staticwebassets\\Docs\\RFF.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_1.png",
+      "PackagePath": "staticwebassets\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_1.png"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_3.png",
+      "PackagePath": "staticwebassets\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_3.png"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_4.png",
+      "PackagePath": "staticwebassets\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_4.png"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_5.png",
+      "PackagePath": "staticwebassets\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_5.png"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_8.png",
+      "PackagePath": "staticwebassets\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_8.png"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_9.png",
+      "PackagePath": "staticwebassets\\Images\\534c99b1-a765-4dcf-b5a2-32f47ff98b5d_9.png"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Images\\test.png",
+      "PackagePath": "staticwebassets\\Images\\test.png"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Temp\\Output_RFDC_c86cb105-b4f6-4703-b65e-d4e8a919d4da.pdf",
+      "PackagePath": "staticwebassets\\Temp\\Output_RFDC_c86cb105-b4f6-4703-b65e-d4e8a919d4da.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Temp\\Output_RFDC_e462a77d-ba08-4431-ab5c-37c3c3de2c5c.pdf",
+      "PackagePath": "staticwebassets\\Temp\\Output_RFDC_e462a77d-ba08-4431-ab5c-37c3c3de2c5c.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Temp\\Output_RFF_183dbff7-0115-4140-b042-92e518701134.pdf",
+      "PackagePath": "staticwebassets\\Temp\\Output_RFF_183dbff7-0115-4140-b042-92e518701134.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Temp\\Output_RFF_a2ec2fd0-fea3-47c1-953c-b8d75529bd75.pdf",
+      "PackagePath": "staticwebassets\\Temp\\Output_RFF_a2ec2fd0-fea3-47c1-953c-b8d75529bd75.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Temp\\Output_RFF_f4299c3a-4309-4e7c-aa87-671d9f3661b9.pdf",
+      "PackagePath": "staticwebassets\\Temp\\Output_RFF_f4299c3a-4309-4e7c-aa87-671d9f3661b9.pdf"
+    },
+    {
+      "Id": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\wwwroot\\Temp\\Output_RFF_fdd1dbd6-163d-4f3a-846b-8aa1f929d747.pdf",
+      "PackagePath": "staticwebassets\\Temp\\Output_RFF_fdd1dbd6-163d-4f3a-846b-8aa1f929d747.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EnvioInforme.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EnvioInforme.props",
+      "PackagePath": "build\\EnvioInforme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EnvioInforme.props",
+      "PackagePath": "buildMultiTargeting\\EnvioInforme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EnvioInforme.props",
+      "PackagePath": "buildTransitive\\EnvioInforme.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

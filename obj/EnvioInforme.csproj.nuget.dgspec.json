@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\EnvioInforme.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\EnvioInforme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\EnvioInforme.csproj",
+        "projectName": "EnvioInforme",
+        "projectPath": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\EnvioInforme.csproj",
+        "packagesPath": "C:\\Users\\moeen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moeen\\OneDrive\\Documents\\FiverProjects\\FO15F9DA1201\\EnvioInforme\\EnvioInforme\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moeen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Aspose.PDF": {
+              "target": "Package",
+              "version": "[23.12.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[4.42.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Globalization": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
